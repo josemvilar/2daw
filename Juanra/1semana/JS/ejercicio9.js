@@ -4,6 +4,7 @@ window.onload=function(){
     var pass = prompt("What's ur password?","");
     var hoy = new Date();
     var fecha = hoy.getDay() +"-"+ hoy.getMonth() + "-" + hoy.getFullYear();
+  
     if (pass==="daw") {
     window.alert("Hello Daw Pupil "+fecha);        
     }else{
