@@ -1,12 +1,22 @@
 window.onload = function(){
 console.log("Iniciado");
-    var ask = prompt("Write a number","");
-    resultado=0;
 
-    while(ask =! -1){
-        resultado= ask+ask;
+
+    let = num = null;
+    let ask = 0;
+
+    while(ask !== -1){
+        ask = parseInt(prompt("Insert a number."));
+        if (ask===-1) {
+            window.alert("Exit the promgram");
+        } else if(ask >= 0){
+            num += ask;
+            console.log(num);
+        }else{
+            window.alert("Its not a positive number, repeat");
+        }
     }
-    console.log(resultado);
+    window.alert("El Resulado es " + num);
     
 }
 
