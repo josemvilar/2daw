@@ -1,7 +1,8 @@
 window.onload = function () {
 
     function isPrime(primo) {
-        for (var i = 2; i < primo; i++) {
+        if(primo ===0 || primo === 1 || primo===4) return false;
+        for (var i = 2; i < primo/2; i++) {
 
             if (primo % i === 0) {
                 return true;
