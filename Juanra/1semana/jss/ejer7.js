@@ -7,3 +7,6 @@ window.onload=function(){
         window.alert("Good luck");
       } 
 }
+
+
+    let resp_confirm= window.confirm("Vas a aprobar el curso en febrero?");

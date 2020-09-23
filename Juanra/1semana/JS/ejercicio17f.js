@@ -6,7 +6,7 @@ window.onload = function(){
         
     }
     let named = window.prompt("Dime un nombre", "");
-    let array = ["1SMR","2SMR","1DAW","2DAW","1GA","2GA"];
+    let array = [];
     let newArray = array.map(greaterThanAverage);
 }
 

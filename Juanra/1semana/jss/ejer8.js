@@ -15,7 +15,7 @@ window.onload=function() {
 
     console.log("La frase ordenada es " + palabras.sort());
 
-    console.log("La frase ordenada es " + palabras.reverse());
+    console.log("La frase desordenada es " + palabras.reverse());
 
 
 }

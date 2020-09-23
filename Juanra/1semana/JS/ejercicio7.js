@@ -1,6 +1,6 @@
 window.onload = function(){
 
-        let resp_confirm= window.setTimeout(confirm, 2000, "Game over. Do you want to play again?"));
+        let resp_confirm= window.setTimeout(confirm, 2000, "Game over. Do you want to play again?"))==true);
        
     
         if (resp_confirm===true) {
