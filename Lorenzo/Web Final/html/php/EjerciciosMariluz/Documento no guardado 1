@@ -1,0 +1,49 @@
+Entre quines etiquetes s'escriu el codi php?
+
+<?php ?>
+
+Quines funcions s'utilitzen per a mostrar text en php?
+
+echo
+
+Quina extensio te un arxiu php?
+
+.php
+
+Per a que s'utiliza // i /*?
+
+// comentar una linea.
+/* comentar varias lines a la vez.
+
+On hem de posar ? 
+
+Al empezar el php y finalizar.
+
+
+Practica 3: Busca errors en el codigo
+
+1.- El head va fuera de <title>
+2.- Las comillas ""
+3. los echos no estan cerrados con ;
+4.- el php no se ha cerrado ?>
+
+
+Practica 5:
+1.- Quin signe s'utilitza per nomenar una variable? on va situat?
+$, delante del nombre de la variable
+
+2.- Quins caracters poden contenir el noms de varibales?
+Mayusculas, minusculas, numeros y _
+3.- Distingeixen entre majuscules i minuscules?
+Si
+4.- Per a que necessiten el signe = i el ;?
+= para asignarle un valor a la variable. ; para cerrar la linea de codigo
+
+Practica 6: Que li passa a les següents variables?
+
+1.- Variable=2;   Le falta el dolar
+2.- $ variable = 2; Hay un espacio alante del dolar
+3.- Variable$=2 El folar tiene que ir delante
+4.- $Nom de la variable=2; No puede tener espacios
+5.- $_variable 2; No puede tener espacios, y le falta el =
+

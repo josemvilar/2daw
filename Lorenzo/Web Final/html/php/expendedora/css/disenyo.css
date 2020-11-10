@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-position-x: center;
+    background-image: url(../imagenes/background.jpg) ;
+        background-repeat: no-repeat;
+        margin-top: 18%;
+        
+    
+
+}
+
+#resultado {
+background-color: burlywood;
+}
+
+
+table {
+
+    border: 1px solid black;
+    text-align:center;
+    margin: 0 auto;
+    font-weight: bold;
+    
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
