@@ -15,6 +15,7 @@ window.onload = function(){
             "autor": "Yo",
             "tails": false,
             "yaRead": Boolean;
+            
             };
 
 
